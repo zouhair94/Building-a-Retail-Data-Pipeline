@@ -1,13 +1,13 @@
-# 🛒 Walmart E-Commerce Retail Data Pipeline
+# 🛒 Walmart Retail Data Pipeline
 
-This project implements a **data pipeline** to analyze Walmart’s e-commerce sales data around **public holidays** such as Thanksgiving, Christmas, and the Super Bowl.  
+This project implements a **data pipeline** to analyze Walmart’s sales data around **public holidays** such as Thanksgiving, Christmas, and the Super Bowl.  
 The pipeline extracts, transforms, and loads sales and complementary data, enabling insights into **supply and demand patterns** across different months.
 
 ---
 
 ## 📌 Project Overview
 
-Walmart is the largest retail store in the U.S., with e-commerce contributing over **$80 billion (13% of sales) by the end of 2022**.  
+Walmart is the largest retail store in the U.S., with contributing over **$80 billion (13% of sales) by the end of 2022**.  
 Holidays significantly affect demand, and this project helps analyze their impact using a structured pipeline.
 
 The pipeline performs:
